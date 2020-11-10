@@ -148,3 +148,5 @@ models/
 *.pkl
 *.pkh
 
+# adding Mac specific 
+.DS_Store
